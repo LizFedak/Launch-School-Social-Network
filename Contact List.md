@@ -1,5 +1,4 @@
 # Slack names of Moderators
-- @Liz Fedak
 - @Kledoux
 - @Jenae Janzen
 - @Leena
